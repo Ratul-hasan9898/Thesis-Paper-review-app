@@ -1,0 +1,5 @@
+{
+  "name": "Research Paper Analyzer",
+  "description": "An application that uses Gemini to summarize, explain, and analyze research papers on complex topics like Deep Reinforcement Learning for UAVs.",
+  "requestFramePermissions": []
+}
